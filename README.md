@@ -119,8 +119,6 @@ Em constante aprendizado na área de desenvolvimento, buscando aplicar minhas ha
     src="https://github-readme-stats.vercel.app/api?username=heitorhidalgo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<br/>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
