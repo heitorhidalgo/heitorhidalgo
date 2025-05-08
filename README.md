@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Heitor Hidalgo
+# 🧑‍💻 Heitor Hidalgo
 
 **`Desenvolvedor FullStack em Formação`**
 
