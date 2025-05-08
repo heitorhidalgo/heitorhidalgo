@@ -6,20 +6,20 @@ Profissional em transição para a área de tecnologia, com experiência em supo
 
 Conhecimento em tecnologias como Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, além de aplicar metodologias ágeis (Scrum, Kanban) e princípios SOLID.
 
-Estou em constante evolução na área de desenvolvimento, buscando aplicar e aprimorar minhas habilidades para entregar soluções eficientes e bem estruturadas.
+Em constante aprendizado na área de desenvolvimento, buscando aplicar minhas habilidades para entregar soluções eficientes e bem estruturadas.
 
 <a href="https://github.com/heitorhidalgo?tab=repositories&sort=stargazers">
         <img
-            alt="Total de estrelas"
+            alt="Stars"
             title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/heitorhidalgo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/heitorhidalgo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/heitorhidalgo?tab=followers">
         <img
-            alt="Seguidores"
+            alt="Followers"
             title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/heitorhidalgo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/heitorhidalgo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
         />
     </a>
 
@@ -118,6 +118,8 @@ Estou em constante evolução na área de desenvolvimento, buscando aplicar e ap
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=heitorhidalgo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+<br/>
 
 <img 
       align="left" 
