@@ -2,8 +2,10 @@
 
 **`Desenvolvedor FullStack em Formação`**
 
-Profissional em transição para a área de tecnologia, com experiência em suporte técnico e formação em desenvolvimento Full Stack. 
+Profissional em transição para a área de tecnologia, com experiência em suporte técnico e formação jurídica.
+
 Conhecimento em tecnologias como Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, além de aplicar metodologias ágeis (Scrum, Kanban) e princípios SOLID.
+
 Estou em constante evolução na área de desenvolvimento, buscando aplicar e aprimorar minhas habilidades para entregar soluções eficientes e bem estruturadas.
 
 <a href="https://github.com/heitorhidalgo?tab=repositories&sort=stargazers">
