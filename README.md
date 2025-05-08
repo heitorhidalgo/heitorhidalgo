@@ -2,11 +2,11 @@
 
 **`Desenvolvedor FullStack em Formação`**
 
-Profissional em transição para a área de tecnologia, com experiência em suporte técnico e formação em desenvolvimento Full Stack. Atualmente atuo com suporte computacional em uma empresa de certificados digitais, oferecendo atendimento remoto, treinamentos e soluções técnicas com foco em agilidade.
-Participei de um bootcamp intensivo onde desenvolvi projetos com Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, além de aplicar metodologias ágeis (Scrum, Kanban) e princípios SOLID.
+Profissional em transição para a área de tecnologia, com experiência em suporte técnico e formação em desenvolvimento Full Stack. 
+Conhecimento em tecnologias como Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, além de aplicar metodologias ágeis (Scrum, Kanban) e princípios SOLID.
 Estou em constante evolução na área de desenvolvimento, buscando aplicar e aprimorar minhas habilidades para entregar soluções eficientes e bem estruturadas.
 
-    <a href="https://github.com/heitorhidalgo?tab=repositories&sort=stargazers">
+<a href="https://github.com/heitorhidalgo?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
@@ -69,42 +69,38 @@ Estou em constante evolução na área de desenvolvimento, buscando aplicar e ap
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"         
 />
 <img
-align="left"
-alt="Java"
-title="Java"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img
-align="left"
-alt="C#"
-title="C#"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-
+    align="left"
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 
 <img
-align="left"
-alt=".NET"
-title=".NET"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-
+    align="left"
+    alt=".NET"
+    title=".NET"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
 />
 
 <img
-align="left"
-alt="MySQL"
-title="MySQL"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 <br/>
