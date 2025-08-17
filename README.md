@@ -1,6 +1,6 @@
-# 🧑‍💻 Heitor Hidalgo
+# Heitor Hidalgo 💻
 
-**`Desenvolvedor FullStack em Formação`**
+**`Desenvolvedor FullStack`**
 
 Profissional em transição para a área de tecnologia, com experiência em suporte técnico e formação jurídica.
 
@@ -27,7 +27,11 @@ Em constante aprendizado na área de desenvolvimento, buscando aplicar minhas ha
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Sociais 📱
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorhidalgo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/heitorhidalgo) [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/heitor-hidalgo) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](heitorhidalgo10@hotmail.com)
+
+### Linguagens e Tecnologias 📚
 
 <img 
     align="left" 
@@ -80,6 +84,14 @@ Em constante aprendizado na área de desenvolvimento, buscando aplicar minhas ha
 />
 <img
     align="left"
+    alt="Spring"
+    title="Spring"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+    align="left"
     alt="C#"
     title="C#"
     width="30px"
@@ -104,11 +116,43 @@ Em constante aprendizado na área de desenvolvimento, buscando aplicar minhas ha
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img
+    align="left"
+    alt="VScode"
+    title="VScode"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img
+    align="left"
+    alt="Eclipse"
+    title="Eclipse"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
+/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas 📊
 
 <p>
   <img 
