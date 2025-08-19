@@ -130,7 +130,7 @@ Em constante aprendizado na área de desenvolvimento, buscando aplicar minhas ha
     title="GitHub"
     width="30px"
     style="padding-right: 10px;"
-    src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
+    src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF"
 />
 <img
     align="left"
